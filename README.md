@@ -71,3 +71,19 @@ We design, machine, assemble, and test industrial pumps in Cabreúva, São Paulo
 
 Attribution: please credit **FB Bombas** and link back to this repository when
 reusing material.
+
+
+---
+
+## More from the FB Bombas open knowledge base
+
+All knowledge-base sites are hosted on GitHub Pages and licensed under
+CC BY 4.0 (or CC BY-ND 4.0 for the manuals mirror).
+
+- [`nfpa20-fire-pump-checklist`](https://fb-bombas.github.io/nfpa20-fire-pump-checklist/) — 47-item NFPA-20 / NBR-16704 fire-pump compliance checklist
+- [`pump-procurement-playbook`](https://fb-bombas.github.io/pump-procurement-playbook/) — Industrial pump procurement playbook — RFQ, TCO, contract clauses
+- [`pump-glossary-multilang`](https://fb-bombas.github.io/pump-glossary-multilang/) — Trilingual pump glossary — PT / EN / ES with gotchas and standard references
+- [`latam-pump-buyers-guide`](https://fb-bombas.github.io/latam-pump-buyers-guide/) — Country-by-country LATAM procurement guide — Brazil, Mexico, Argentina, Chile, Colombia, Peru
+- [`fb-bombas-technical-manuals`](https://fb-bombas.github.io/fb-bombas-technical-manuals/) — Official FB Bombas technical manuals (PDF) — FBCN, FBE, FBEI, FBOT
+
+Canonical FB Bombas: [www.fbbombas.com.br](https://www.fbbombas.com.br) · [Manuais técnicos](https://www.fbbombas.com.br/manuais-tecnicos)
