@@ -28,15 +28,18 @@ intermediates) or when **downstream equipment is pulsation-sensitive**
 ## What FB Bombas builds
 
 Our [FBEI internal gear line](https://www.fbbombas.com.br/produtos/serie-fbei)
-covers:
+comprises **10 official models** across three configurations:
 
-- Flow: 0.5 to ~250 m³/h
-- Differential pressure: up to 17 bar
-- Viscosity: up to ~500.000 cSt with proper sizing
-- Temperature: -20 to +300 °C
+- **Compact** (Fig. 11): GG1, HJ12, HL12 — sizes 1" to 1½"
+- **With relief valve** (Fig. 8): HL12, KK2, LQ21, LS3, M4 — sizes 1½" to 4"
+- **Heavy-duty 3"** (Fig. 12): AS3, AK3, AL3 — reinforced 3" line
 
-Typical applications: bitumen blending, polyurethane components, food gels,
-adhesives, cosmetic creams, polymer dosing.
+Sizes covered: 1" through 4". Per the official FBEI manual
+(MAN001-10), **performance specifications — flow, pressure, rotation —
+are determined application-by-application** by FB Bombas application
+engineering rather than published as a fixed envelope. Request a duty-
+point quotation through Assistência Técnica (+55 11 4898-9211) for any
+specific service.
 
 ## Sizing rule of thumb
 

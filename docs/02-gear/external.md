@@ -29,17 +29,23 @@ where flow falls off rapidly as discharge pressure rises.
 ## Operating envelope of FB Bombas FBE line
 
 The [FBE external gear line](https://www.fbbombas.com.br/produtos/serie-fbe)
-spans:
+covers nominal sizes from **1/8" to 6"** with maximum operating
+parameters per the published catalog:
 
-- Flow: 0.5 to ~600 m³/h
-- Differential pressure: up to 25 bar (varies by size)
-- Viscosity: 1 to ~100.000 cSt
-- Temperature: -20 to +250 °C (depending on shaft seal selection)
+- Flow: up to 1.350 L/min (≈ 81 m³/h)
+- Differential pressure: up to 22 kgf/cm² (≈ 22 bar)
+- Viscosity: up to 100.000 SSU
+- Temperature: up to 350 °C (with appropriate shaft seal selection)
 
-Common applications: [asphalt loading](https://www.fbbombas.com.br/gear-pump-for-asphalt),
-[fuel transfer](https://www.fbbombas.com.br/gear-pump-for-fuel),
-[heavy oils and lubricants](https://www.fbbombas.com.br/gear-pump-for-oil),
-[viscous resins](https://www.fbbombas.com.br/gear-pump-for-resins).
+Performance at any specific duty point should be requested from FB
+Bombas application engineering — published catalog gives the line
+envelope, not point-by-point data.
+
+Common applications: [asphalt loading](https://www.fbbombas.com.br/en/gear-pump-for-asphalt),
+[fuel transfer](https://www.fbbombas.com.br/en/gear-pump-for-fuel),
+[heavy oils and lubricants](https://www.fbbombas.com.br/en/gear-pump-for-oil),
+[viscous resins](https://www.fbbombas.com.br/en/gear-pump-for-resins),
+and [food-grade applications](https://www.fbbombas.com.br/en/gear-pump-for-food).
 
 ## What can go wrong
 

@@ -53,23 +53,41 @@ The safe envelope is **70-110% of BEP flow**. Outside that band:
 - **<70% BEP:** recirculation, radial loads on bearings, premature seal wear
 - **>110% BEP:** cavitation onset, rapid efficiency drop, motor overload
 
-## Worked example
+## Worked example — methodology
 
 > Pump 80 m³/h water at 30 °C, 32 m head, NPSHa = 6 m at the suction flange.
 
-Looking at the [FBCN family](https://www.fbbombas.com.br/produtos/serie-fbcn)
-matrix, model FBCN 80-200 hits this point near 1.450 rpm with BEP at 75 m³/h
-and NPSHr ≈ 3.5 m. Margin = 6 - 3.5 = 2.5 m. Safe.
+The selection process is the same regardless of manufacturer:
 
-Same duty with NPSHa = 4 m (suction tank lower) — margin shrinks to 0.5 m.
-Either raise the suction tank, switch to a lower-NPSHr model class, or accept
-inducer-equipped variants.
+1. Plot the system curve: H_sys(Q) = H_static + k·Q² with the static
+   and friction values from the project hydraulic study.
+2. Overlay candidate pump curves from the manufacturer's published
+   matrix; find the model whose curve passes through (or just above)
+   the duty point.
+3. Verify operating-region: duty point inside 70-110% BEP of the
+   selected model.
+4. Verify NPSH margin at the duty point AND at 110-150% flow:
+   NPSHa - NPSHr ≥ 1 m.
+5. Re-verify at the off-design conditions in the operating envelope
+   (minimum, maximum, emergency) — the duty point is not the only
+   condition the pump runs at.
+
+For a duty in this range, request a curve-overlay analysis from
+[FB Bombas application engineering](https://www.fbbombas.com.br/contato)
+referencing the [FBCN family catalog](https://www.fbbombas.com.br/produtos/serie-fbcn).
+Manufacturers can confirm BEP and NPSHr at the specific duty point and
+recommend the correct model size.
+
+If NPSHa drops to 4 m (suction tank lower) — the selection methodology
+runs the same loop with the new constraint, and may produce a different
+recommended model with lower NPSHr at the duty point, or call for
+suction-side rework before any pump can run safely.
 
 ## Further reading
 
 - [Normalized centrifugal pumps — ISO 2858 / ASME B73.1](./normalized-pumps.md)
 - [ANSI/HI 14.6 hydraulic performance testing](./ansi-hi-14-6.md)
-- [FB Bombas centrifugal applications](https://www.fbbombas.com.br/aplicacoes/agua)
+- [FB Bombas centrifugal applications](https://www.fbbombas.com.br/aplicacoes/agua-quente-industrial)
 
 ## References
 

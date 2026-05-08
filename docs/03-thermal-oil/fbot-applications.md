@@ -25,15 +25,19 @@ Three constraints dominate pump selection:
 ## Operating envelope of the FB Bombas FBOT line
 
 The [FBOT thermal-oil line](https://www.fbbombas.com.br/produtos/serie-fbot)
-covers:
+covers, per the official catalog:
 
-- Flow: 5 to 600 m³/h
-- Head: up to 100 m
+- Sizes: DN25 to DN300
+- Flow: up to 2.200 m³/h
+- Head: up to 135 m
 - Temperature: continuous duty up to 350 °C
-- Construction: cast steel or ductile iron, never plain cast iron at
-  temperature
-- Seal: hard-face mechanical with cooled flush, OR magnetic drive (sealless)
-  for the most critical services
+- Maximum rotation: 3.500 rpm
+- Maximum suction pressure: 10 bar
+
+Construction and shaft-sealing options are configured per application.
+For the recommended materials and seal arrangement at any specific
+service, consult the FBOT technical manual (linked from the catalog
+page) or [FB Bombas application engineering](https://www.fbbombas.com.br/contato).
 
 ## Common failure mode: fluid degradation
 

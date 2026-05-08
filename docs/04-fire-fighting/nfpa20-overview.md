@@ -46,7 +46,7 @@ at 150% flow cannot deliver demand under fire conditions.
 
 ## What FB Bombas builds
 
-The [FBFS line of fire pumps](https://www.fbbombas.com.br/produtos/serie-fbfs)
+The [fire-pump systems line](https://www.fbbombas.com.br/produtos/sistemas-incendio)
 is built specifically to NFPA-20 + NBR 16704 and ships with the listed
 controllers, jockey pump, and complete documentation package required for
 fire-marshal acceptance.
@@ -56,7 +56,7 @@ See also our [fire-pump factory page](https://www.fbbombas.com.br/fabrica-de-bom
 ## Further reading
 
 - [NBR 16704 — the Brazilian fire-pump standard](./nbr-16704.md)
-- [FBFS product page](https://www.fbbombas.com.br/produtos/serie-fbfs)
+- [fire-pump systems page](https://www.fbbombas.com.br/produtos/sistemas-incendio)
 
 ## References
 
